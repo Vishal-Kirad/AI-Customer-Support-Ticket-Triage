@@ -454,7 +454,7 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Ajay**
+**Vishal**
 
 Artificial Intelligence Capstone Project
 
