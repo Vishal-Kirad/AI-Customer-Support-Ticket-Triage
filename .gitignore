@@ -1,0 +1,31 @@
+# Virtual environment
+STenv/
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated logs
+human_review_log.csv
+*.log
+
+# Dataset
+Support_Ticket.csv
+
+# OS files
+.DS_Store
+Thumbs.db
