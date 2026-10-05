@@ -454,9 +454,9 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Vishal**
+**Vishal Kirad and Satvik Aggarwal**
 
-Artificial Intelligence Capstone Project
+Artificial Intelligence  Project
 
 ---
 
